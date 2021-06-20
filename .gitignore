@@ -28,5 +28,10 @@
 
 # Executables
 *.exe
+*.pdb
 *.out
 *.app
+/bin
+/projects/include
+/projects/lib
+build
