@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\spdlog\\spdlog-1.8.5\\include"
+		}
+	],
+	"settings": {}
+}
